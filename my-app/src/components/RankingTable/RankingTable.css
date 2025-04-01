@@ -1,0 +1,28 @@
+.ranking-table {
+    padding: 24px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fffef9;
+  }
+  
+  .ranking-table h2 {
+    margin-bottom: 16px;
+    color: #4e342e;
+  }
+  
+  .ranking-table table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fefefe;
+  }
+  
+  .ranking-table th,
+  .ranking-table td {
+    border: 1px solid #d7ccc8;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .ranking-table th {
+    background-color: #d7ccc8;
+    color: #3e2723;
+  }
