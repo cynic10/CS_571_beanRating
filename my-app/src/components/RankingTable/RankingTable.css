@@ -32,29 +32,23 @@
     z-index: 1;
   }
   
-  .ranking-table th,
-  .ranking-table td {
+.ranking-table th,
+.ranking-table td {
     border: 1px solid #d7ccc8;
     padding: 12px;
     text-align: left;
+    min-width: 50px;
+    max-width: 70px;
+    width: 10%;
   }
 
-  /* Wide Country column */
-.ranking-table th:first-child,
-.ranking-table td:first-child {
-  min-width: 90px;
-  max-width: 110px;
-  width: 20%;
-}
+.ranking-table td:nth-child(2),
+.ranking-table th:nth-child(2) {
+    min-width: 90px;
+    max-width: 110px;
+    width: 20%;
+  }
 
-/* Smaller other columns */
-.ranking-table th:not(:first-child),
-.ranking-table td:not(:first-child) {
-  min-width: 50px;
-  max-width: 70px;
-  width: 10%;
-}
-  
   .ranking-table th {
     background-color: #d7ccc8;
     color: #3e2723;
@@ -72,4 +66,16 @@
     top: 0;
     background-color: #d7ccc8;
     z-index: 2;
+  }
+
+  .sticky-col {
+    position: sticky;
+    left: 0;
+    background-color: #fffef9; 
+    text-align: center;
+    font-weight: normal;
+    min-width: 60px;
+    max-width: 60px;
+    width: 60px;
+    border-right: 1px solid #d7ccc8;
   }

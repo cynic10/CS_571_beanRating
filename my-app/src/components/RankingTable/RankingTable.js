@@ -38,6 +38,7 @@ const RankingTable = () => {
       <table>
         <thead>
           <tr>
+            <th className="sticky-col">#</th> {/* New sticky index header */}
             {columns.map((col) => (
               <th key={col} onClick={() => handleSort(col)} style={{ cursor: 'pointer' }}>
                 {col} {sortColumn === col ? (sortAsc ? '↑' : '↓') : ''}
@@ -46,11 +47,12 @@ const RankingTable = () => {
           </tr>
         </thead>
         <tbody>
-          {data.map((row, idx) => (
-            <tr key={idx}>
-              {columns.map((col) => (
-                <td key={col}>{row[col]}</td>
-              ))}
+            {data.map((row, idx) => (
+                <tr key={idx}>
+                    <td className="sticky-col">{idx + 1}</td> {/* New sticky index cell */}
+                    {columns.map((col) => (
+                        <td key={col}>{row[col]}</td>
+                 ))}
             </tr>
           ))}
         </tbody>
