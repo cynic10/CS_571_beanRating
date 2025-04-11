@@ -37,8 +37,23 @@
     border: 1px solid #d7ccc8;
     padding: 12px;
     text-align: left;
-    min-width: 100px;
   }
+
+  /* Wide Country column */
+.ranking-table th:first-child,
+.ranking-table td:first-child {
+  min-width: 90px;
+  max-width: 110px;
+  width: 20%;
+}
+
+/* Smaller other columns */
+.ranking-table th:not(:first-child),
+.ranking-table td:not(:first-child) {
+  min-width: 50px;
+  max-width: 70px;
+  width: 10%;
+}
   
   .ranking-table th {
     background-color: #d7ccc8;
