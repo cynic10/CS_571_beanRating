@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.site-title {
+  text-align: center;
+  color: #3e2723;
+  font-size: 2.5rem;
+  margin-top: 24px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

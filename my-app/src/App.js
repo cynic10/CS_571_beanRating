@@ -7,6 +7,7 @@ import RankingTable from './components/RankingTable/RankingTable';
 function App() {
   return (
     <div className="App">
+      <h1 className="site-title">Coffee Bean Rating</h1>
       <RankingTable />
     </div>
   );

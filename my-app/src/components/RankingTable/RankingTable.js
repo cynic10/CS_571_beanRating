@@ -34,7 +34,7 @@ const RankingTable = () => {
 
   return (
     <div className="ranking-table">
-      <h2>Coffee Bean Ranking</h2>
+      <h2>Ranking Table</h2>
       <table>
         <thead>
           <tr>
