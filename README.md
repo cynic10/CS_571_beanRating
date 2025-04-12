@@ -58,11 +58,11 @@ We used a Kaggle dataset with ~1000 rows detailing:
 
 ## Steps on running the project:
 After cloning the repo to your device, open the terminal in the clone folder, and then please do the following before run the app:
-
+```bash
 cd my-app
 npm install
-
+```
 Then to run the project:
-
+```bash
 npm start
-
+```
