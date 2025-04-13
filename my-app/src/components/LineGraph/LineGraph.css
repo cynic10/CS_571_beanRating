@@ -1,0 +1,22 @@
+.line-graph-container {
+    margin-top: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+.line-graph-container h2 {
+    margin-bottom: 16px;
+    color: #4e342e;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  
+.controls {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+  }
+  
