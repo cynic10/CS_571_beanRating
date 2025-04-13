@@ -41,7 +41,7 @@ We used a Kaggle dataset with ~1000 rows detailing:
 - Origin (country, region, altitude)
 - Type (species, variety, processing method)
 - Production data (bags, weight, year)
-- Attribute scores (aroma, flavor, acidity, etc.)
+- Attribute scores (aroma, flavor, acidity, aftertaste, Body, Balance, Uniformity, Sweetness,	Moisture)
 
 ### Cleaning & Transformation Steps
 - Handled missing values and standardized formatting.
