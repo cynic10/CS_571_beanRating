@@ -1,17 +1,22 @@
 import React from 'react';
-
-import logo from './logo.svg';
 import './App.css';
 import RankingTable from './components/RankingTable/RankingTable';
+import RadarChart from './components/RadarChart/RadarChart';
+import LineGraph from './components/LineGraph/LineGraph';
 
 function App() {
   return (
     <div className="App">
       <h1 className="site-title">Coffee Bean Rating</h1>
-      <RankingTable />
+      <div className="ranking-radar-container">
+        <RankingTable />
+        <RadarChart />
+      </div>
+      <div className="linegraph-container">
+        <LineGraph />
+      </div>
     </div>
   );
 }
-
 
 export default App;
