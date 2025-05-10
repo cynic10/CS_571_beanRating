@@ -71,7 +71,7 @@
   .sticky-col {
     position: sticky;
     left: 0;
-    background-color: #fffef9; 
+    background-color: white; 
     text-align: center;
     font-weight: normal;
     min-width: 60px;

@@ -34,10 +34,9 @@ const LineGraph = () => {
     })
   ).sort((a, b) => a.year - b.year);
 
-  // Dimensions
   const width = 600;
   const height = 300;
-  const margin = { top: 20, right: 20, bottom: 30, left: 50 };
+  const margin = { top: 20, right: 50, bottom: 30, left: 0 };
 
   const xScale = d3
     .scaleLinear()
@@ -54,7 +53,7 @@ const LineGraph = () => {
 
   return (
     <div className="line-graph-container">
-      <h2>Line Graph</h2>
+      <h2>Average Score/Production Trends By Country</h2>
       <div className="controls">
         
         <label>
@@ -76,7 +75,9 @@ const LineGraph = () => {
         </label>
       </div>
 
-      <svg width={width} height={height}>
+      <svg viewBox={`0 0 ${width} ${height}`}
+  preserveAspectRatio="xMinYMin meet"
+  style={{ width: '100%', height: 'auto' }}>
         {/* X Axis */}
         {xScale.ticks().map((tick) => (
           <text

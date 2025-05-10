@@ -1,25 +1,156 @@
+* {
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
 
+.site-header {
+  padding: 1rem 2rem;
+  background-color: #fffef9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100px;
+  border-bottom: 2px solid #2c1b12;
+}
+
+.header-content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.bean-icon {
+  width: 50px;
+  height: 50px;
+}
+
 .site-title {
-  text-align: center;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 4rem;
   color: #3e2723;
-  font-size: 2rem;
-  margin-top: 15px;
-  font-family: 'Segoe UI', sans-serif;
+  margin: 0 0 0 10px;
+  text-align: lefts;
 }
 
-.ranking-radar-container {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 2rem;
-  margin: 20px;
+.header-links a {
+  color: #3e2723;
+  margin-left: 20px;
+  font-size: 1.1rem;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.linegraph-container {
+.header-links a:hover {
+  text-decoration: underline;
+}
+
+.ranking-radar-section {
   display: flex;
-  justify-content: center;
-  margin: 20px auto;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.ranking-container {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.ranking-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.radar-container {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.radar-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.line-bar-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.bar-container {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.bar-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.line-container {
+  flex: 1;
+  margin: 0;
+  margin-right: 10px;
+  padding: 0;
+}
+
+.line-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  margin-right: 100px;
+  padding: 0;
+}
+
+.ranking-container h2,
+.radar-container h2,
+.bar-container h2,
+.line-container h2 {
+  color: #4e342e;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: left;
+}
+
+.site-footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #3e2723;
+  color: white;
+  text-align: center;
+}
+
+.site-footer a {
+  color: #fff;
+  margin: 0 8px;
+  text-decoration: underline;
 }

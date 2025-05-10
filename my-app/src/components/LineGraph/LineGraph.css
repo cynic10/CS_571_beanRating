@@ -1,9 +1,11 @@
 .line-graph-container {
-    margin-top: 30px;
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  margin-top: 30px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 800px;
+  margin-left: 0;
   }
 
 .line-graph-container h2 {

@@ -132,6 +132,7 @@ const RadarChart = () => {
 
   return (
     <div className="radar-chart-container">
+      <h2>Average Coffee Profile by Country and Year</h2>
       <div className="chart-and-legend">
         <svg ref={svgRef}></svg>
         <div className="legend-wrapper">
