@@ -4,6 +4,9 @@ Welcome to **beanRating**, a visual and interactive dashboard that helps coffee 
 
 ---
 
+## Project Website  
+[Visit the Coffee Rating Website](https://your-project-site.com)
+
 ## Project Overview
 
 Coffee is more than just a beverage — it's a global culture. With this project, our goal is to understand what makes great coffee and how different characteristics, origins, and production trends affect its quality.
@@ -30,8 +33,8 @@ Using a comprehensive dataset and powerful visualizations, **beanRating** allows
 - **Line Charts:** 
   - Average coffee production by country over years.
   - Average total score of beans by country over years.
-- **Radar Chart:** (Planned) Explore multiple attributes of a selected coffee bean.
-- **Heatmap:** (Planned) Visualize score distribution within countries by region.
+- **Radar Chart:**  Explore multiple attributes of a selected coffee bean.
+- **Stacked Bar Chart:** Explore the contribution of each characteristic to the total score for each country and year.
 
 ---
 
@@ -66,3 +69,7 @@ Then to run the project:
 ```bash
 npm start
 ```
+
+## Project Screencast Link: 
+
+[Watch the 2-Minute Screencast](https://www.youtube.com/watch?v=uo2VmsI0Cgw)
