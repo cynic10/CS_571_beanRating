@@ -12,7 +12,7 @@ const RadarChart = () => {
   const svgRef = useRef(null);
 
   useEffect(() => {
-    d3.csv("/data.csv").then(rows => {
+    d3.csv("/datasets/rankingTable_radarChart_dataset.csv").then(rows => {
       const parsed = rows.map(d => ({
         country: (d[""] || d["Country"] || d[Object.keys(d)[0]])?.trim(),
         year: +d[Object.keys(d)[1]],

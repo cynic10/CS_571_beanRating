@@ -1,0 +1,125 @@
+Country,Year,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Sweetness,Moisture,Total,Species,Variety,ProcessingMethod,QualityCategory
+Brazil,2010,8.3,7.92,7.96,7.75,8.13,8,10,10,0.05,86.17,Arabica,Yellow Bourbon,Unknown,HIGH
+Brazil,2011,8.02,7.93,7.68,7.73,7.69,7.74,10,10,0.08,84.52,Arabica,Bourbon,Semi-washed / Semi-pulped,MODERATE
+Brazil,2012,7.64,7.59,7.4,7.51,7.49,7.48,10,10,0.12,82.6,Arabica,Mundo Novo,Natural / Dry,MODERATE
+Brazil,2013,7.72,7.7,7.59,7.72,7.67,7.94,10,10,0.11,83.92,Arabica,Unknown,Natural / Dry,MODERATE
+Brazil,2014,7.43,7.5,7.49,7.4,7.49,7.47,10,10,0.1,81.68,Arabica,Catuai,Natural / Dry,MODERATE
+Brazil,2015,7.58,7.55,7.58,7.5,7.58,7.53,10,10,0.11,82.89,Arabica,Yellow Bourbon,Pulped natural / honey,MODERATE
+Brazil,2016,7.46,7.47,7.43,7.47,7.48,7.4,9.81,9.96,0.1,81.94,Arabica,Bourbon,Natural / Dry,MODERATE
+Burundi,2012,7.75,7.67,7.33,7.5,7.5,7.75,10,10,0,83.33,Arabica,Bourbon,Washed / Wet,MODERATE
+Burundi,2016,7.08,7.25,7.17,7.33,7.08,7.08,10,10,0.12,80.33,Arabica,Unknown,Unknown,MODERATE
+China,2013,7.31,7.29,7.19,7.31,7.4,7.23,9.83,9.67,0.07,80.4,Arabica,Other,Washed / Wet,MODERATE
+China,2015,7.75,7.74,7.58,7.67,7.63,7.65,10,10,0.1,83.77,Arabica,Catimor,Washed / Wet,MODERATE
+Colombia,2011,7.46,7.52,7.33,7.4,7.44,7.61,10,10,0.06,82.15,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2012,7.64,7.62,7.58,7.56,7.65,7.65,9.93,9.96,0.08,83.15,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2013,7.65,7.55,7.51,7.56,7.59,7.68,9.89,9.91,0.06,82.76,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2014,7.73,7.62,7.55,7.68,7.63,7.71,10,10,0.04,83.57,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2015,7.8,7.69,7.64,7.75,7.77,7.71,9.78,10,0.08,83.79,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2016,7.65,7.66,7.56,7.58,7.61,7.71,10,10,0.02,83.44,Arabica,Caturra,Washed / Wet,MODERATE
+Colombia,2017,7.71,7.75,7.54,7.46,7.63,7.58,10,10,0.11,83.34,Arabica,Caturra,Washed / Wet,MODERATE
+Costa Rica,2012,7.67,7.69,7.67,7.94,7.67,7.83,10,8.67,0.07,82.81,Arabica,Bourbon,Washed / Wet,MODERATE
+Costa Rica,2013,7.6,7.42,7.46,7.52,7.56,7.51,9.75,10,0.11,82.28,Arabica,Catuai,Washed / Wet,MODERATE
+Costa Rica,2014,7.61,7.47,7.45,7.5,7.48,7.7,9.91,9.95,0.09,82.28,Arabica,Caturra,Washed / Wet,MODERATE
+Costa Rica,2015,7.76,7.5,7.5,7.46,7.36,7.58,9.7,10,0.07,82.48,Arabica,Caturra,Washed / Wet,MODERATE
+Costa Rica,2016,7.61,7.6,7.57,7.67,7.61,7.63,10,10,0.08,83.4,Arabica,Catuai,Washed / Wet,MODERATE
+Costa Rica,2017,7.58,7.75,7.67,7.75,7.83,7.75,10,10,0.08,84,Arabica,Unknown,Washed / Wet,MODERATE
+Cote d?Ivoire,2016,7.42,7.25,6.83,7,7.33,7.08,9.33,10,0.13,79.33,Arabica,Unknown,Washed / Wet,LOW
+Ecuador,2013,7.5,7.67,7.58,7.75,7.83,7.83,10,10,0.09,83.83,Arabica,Unknown,Natural / Dry,MODERATE
+Ecuador,2016,7.63,7.63,7.54,7.67,5.13,6.54,10,8.09,0,78.41,Robusta,Unknown,Unknown,LOW
+El Salvador,2012,7.83,7.78,7.61,7.33,7.78,7.75,10,9.78,0.04,83.5,Arabica,Other,Washed / Wet,MODERATE
+El Salvador,2013,7.89,7.81,7.53,7.39,7.55,7.72,9.78,10,0.07,83.39,Arabica,Bourbon,Washed / Wet,MODERATE
+Ethiopia,2010,7.48,7.63,7.54,7.81,7.75,7.73,9.5,9.67,0.06,82.31,Arabica,Unknown,Unknown,MODERATE
+Ethiopia,2012,7.92,7.92,7.83,8,7.92,7.92,10,8.67,0.09,84.08,Arabica,Other,Natural / Dry,MODERATE
+Ethiopia,2013,8.09,7.96,7.71,7.88,8,7.96,10,10,0.1,85.54,Arabica,Other,Natural / Dry,HIGH
+Ethiopia,2014,8.08,8.21,8,8.14,7.97,8.05,9.96,10,0.09,86.59,Arabica,Unknown,Natural / Dry,HIGH
+Ethiopia,2015,7.79,7.92,7.83,8.05,7.88,7.96,10,10,0.11,85.46,Arabica,Other,Natural / Dry,HIGH
+Ethiopia,2016,7.59,7.67,7.38,7.67,7.71,7.55,10,10,0.11,83.08,Arabica,Other,Natural / Dry,MODERATE
+Ethiopia,2017,7.83,7.88,7.75,7.96,7.63,7.88,10,10,0.1,84.88,Arabica,Caturra,Natural / Dry,MODERATE
+Guatemala,2012,7.51,7.4,7.22,7.55,7.47,7.48,9.73,9.65,0.09,81.07,Arabica,Bourbon,Washed / Wet,MODERATE
+Guatemala,2013,7.54,7.43,7.2,7.55,7.39,7.43,9.92,9.92,0.11,81.61,Arabica,Bourbon,Washed / Wet,MODERATE
+Guatemala,2014,7.57,7.52,7.26,7.62,7.45,7.48,9.87,9.96,0.1,82.06,Arabica,Bourbon,Washed / Wet,MODERATE
+Guatemala,2015,7.63,7.6,7.29,7.7,7.53,7.44,10,10,0.11,82.58,Arabica,Bourbon,Washed / Wet,MODERATE
+Guatemala,2016,7.64,7.63,7.42,7.74,7.6,7.52,9.93,9.93,0.1,82.88,Arabica,Bourbon,Washed / Wet,MODERATE
+Guatemala,2017,7.52,7.52,7.29,7.54,7.48,7.48,9.79,9.9,0.11,81.91,Arabica,Bourbon,Washed / Wet,MODERATE
+Haiti,2010,6.92,6.75,7.08,7.17,7.33,6.67,10,8.67,0.08,72.33,Arabica,Unknown,Unknown,LOW
+Haiti,2012,7.25,7.03,7.17,7.14,7.33,7.14,9.78,8.67,0.12,77.33,Arabica,Typica,Washed / Wet,LOW
+Haiti,2013,7.13,7.08,7.04,7.09,7.17,7.13,9.67,10,0.11,79.38,Arabica,Blue Mountain,Washed / Wet,LOW
+Honduras,2012,7.34,7.5,7.38,7.38,7.54,7.5,10,10,0.1,82.17,Arabica,Unknown,Washed / Wet,MODERATE
+Honduras,2013,7.5,7.5,7.5,7.67,7.67,7.67,10,10,0.1,83.17,Arabica,Catuai,Natural / Dry,MODERATE
+Honduras,2014,7.2,7.05,6.95,7.14,7.13,6.99,9.38,9.43,0.11,77.66,Arabica,Catuai,Washed / Wet,LOW
+Honduras,2015,7.47,7.36,7.15,7.42,7.34,7.3,10,10,0.11,81.33,Arabica,Catuai,Washed / Wet,MODERATE
+Honduras,2016,7.62,7.67,7.49,7.56,7.67,7.55,10,10,0.1,83.06,Arabica,Caturra,Washed / Wet,MODERATE
+Honduras,2017,6.77,6.75,6.53,6.69,6.67,6.63,9,9,0.11,73.71,Arabica,Caturra,Washed / Wet,LOW
+Honduras,2018,7.5,7.42,7.08,7.42,7.5,7.33,10,10,0.11,81.58,Arabica,Catimor,Washed / Wet,MODERATE
+India,2012,8,7.92,7.67,8,7.75,7.92,10,7.75,0,82.75,Robusta,Unknown,Unknown,MODERATE
+India,2013,7.5,7.25,7.14,7.61,7.45,7.44,9.78,7.44,0.08,78.83,Robusta,Unknown,Natural / Dry,LOW
+India,2014,7.64,7.67,7.67,7.58,7.72,7.64,10,7.64,0,81.44,Robusta,Unknown,Unknown,MODERATE
+India,2015,7.75,7.79,7.73,7.75,7.75,7.77,10,7.77,0.05,82.19,Robusta,Other,Unknown,MODERATE
+India,2016,7.67,7.33,7.17,6.67,7.17,7.42,9.33,6.67,0,76.83,Arabica,Unknown,Natural / Dry,LOW
+India,2017,7.84,7.75,7.88,7.84,7.92,7.88,10,7.96,0.05,83,Robusta,Unknown,Washed / Wet,MODERATE
+Indonesia,2010,7.67,7.58,7.5,7.58,7.67,7.58,10,10,0,83.08,Arabica,Unknown,Unknown,MODERATE
+Indonesia,2011,7.33,7,6.5,6.08,7.58,6.33,9.33,9.33,0.12,76.17,Arabica,Other,Natural / Dry,LOW
+Indonesia,2012,7.89,7.56,7.47,7.64,7.69,7.61,10,10,0.12,83.45,Arabica,Other,Washed / Wet,MODERATE
+Indonesia,2013,7.17,7.42,7.33,7.42,7.33,7.42,10,10,0.11,81.67,Arabica,Sumatra,Semi-washed / Semi-pulped,MODERATE
+Indonesia,2014,7.42,7.42,7.42,7.33,7.42,7.42,10,10,0.11,81.83,Arabica,Typica,Other,MODERATE
+Indonesia,2015,7.6,7.63,7.4,7.67,7.67,7.6,9.83,10,0.13,82.15,Arabica,Mandheling,Semi-washed / Semi-pulped,MODERATE
+Indonesia,2016,7.42,7.33,7.34,7.34,7.34,7.29,10,10,0.13,81.42,Arabica,Java,Washed / Wet,MODERATE
+Indonesia,2017,7.66,7.68,7.5,7.57,7.59,7.57,10,10,0.1,83.18,Arabica,Mandheling,Other,MODERATE
+Kenya,2012,7.8,7.88,7.73,7.96,7.82,7.73,10,10,0.03,84.69,Arabica,SL34,Washed / Wet,MODERATE
+Kenya,2013,7.83,7.9,7.83,8.07,7.7,7.85,10,10,0.08,85.12,Arabica,SL28,Washed / Wet,HIGH
+Kenya,2014,7.94,7.9,7.77,7.94,7.81,8.08,9.83,9.83,0.11,84.88,Arabica,SL28,Natural / Dry,MODERATE
+Kenya,2015,8.17,7.83,7.92,7.75,7.67,7.83,10,10,0.11,85,Arabica,Unknown,Washed / Wet,HIGH
+Kenya,2017,7.5,7.48,7.4,7.46,7.5,7.54,10,10,0.11,81.81,Arabica,SL28,Washed / Wet,MODERATE
+Laos,2015,7.42,7.5,7.25,7.33,7.5,7.5,10,10,0.12,82,Arabica,Other,Washed / Wet,MODERATE
+Malawi,2014,7.57,7.39,7.26,7.41,7.34,7.37,10,10,0.12,81.71,Arabica,Gesha,Washed / Wet,MODERATE
+Mexico,2012,7.46,7.37,7.23,7.41,7.38,7.31,9.76,9.97,0.12,80.82,Arabica,Typica,Washed / Wet,MODERATE
+Mexico,2013,7.49,7.37,7.23,7.48,7.37,7.29,9.8,10,0.11,81.12,Arabica,Typica,Washed / Wet,MODERATE
+Mexico,2014,7.39,7.4,7.29,7.43,7.38,7.39,9.21,9.82,0.06,79.93,Arabica,Typica,Washed / Wet,LOW
+Mexico,2015,7.67,7.59,7.38,7.46,7.46,7.42,10,10,0.11,82.38,Arabica,Bourbon,Washed / Wet,MODERATE
+Mexico,2016,7.46,7.3,7,7.38,7.46,7.04,10,10,0.11,80.79,Arabica,Caturra,Unknown,MODERATE
+Mexico,2017,7.65,7.58,7.31,7.63,7.44,7.42,9.83,10,0.11,82.38,Arabica,Mundo Novo,Washed / Wet,MODERATE
+Myanmar,2014,7.42,7,7.08,7,7.17,7.33,10,10,0,80.25,Arabica,Catuai,Natural / Dry,MODERATE
+Myanmar,2015,7.29,7.38,7.13,7.46,7.28,7.11,10,10,0.02,80.82,Arabica,Other,Washed / Wet,MODERATE
+Nicaragua,2013,7.39,7.22,7.14,7.14,7.39,7.45,10,10,0.11,80.97,Arabica,Unknown,Washed / Wet,MODERATE
+Nicaragua,2014,6.83,7.08,6.92,6.75,7.25,7.08,10,10,0.11,78.58,Arabica,Unknown,Natural / Dry,LOW
+Nicaragua,2015,7.24,7.32,7.29,7.35,7.38,7.29,10,10,0.11,81.15,Arabica,Caturra,Washed / Wet,MODERATE
+Nicaragua,2016,7.26,7.22,6.97,7.03,7.22,6.96,9.33,9.33,0.11,77.65,Arabica,Caturra,Other,LOW
+Nicaragua,2017,7.42,7.25,7.13,7.21,7.34,7.25,10,10,0.11,80.75,Arabica,Caturra,Other,MODERATE
+Panama,2012,7.42,7.42,7.5,7.58,7.5,7.75,10,10,0,82.75,Arabica,Catuai,Washed / Wet,MODERATE
+Panama,2014,7.63,7.54,7.5,7.58,7.5,7.88,10,10,0.1,83.13,Arabica,Caturra,Natural / Dry,MODERATE
+Panama,2017,8,8,7.92,8.08,7.83,8,10,10,0.08,85.83,Arabica,Gesha,Washed / Wet,HIGH
+Papua New Guinea,2012,8.33,8.42,7.83,8.33,8,8.25,9.33,10,0.12,85.75,Arabica,Unknown,Washed / Wet,HIGH
+Peru,2012,8.05,7.84,7.71,7.88,8.13,7.88,9.34,9.67,0.06,83.88,Arabica,Other,Washed / Wet,MODERATE
+Peru,2013,7.57,7.57,7.47,7.65,7.65,7.55,9.6,10,0.09,82.53,Arabica,Unknown,Washed / Wet,MODERATE
+Peru,2014,7.42,7.75,7.42,7.67,7.92,7.83,8.67,9.33,0,77,Arabica,Caturra,Washed / Wet,LOW
+Peru,2017,7.92,7.5,7.5,7.58,7.67,7.5,10,10,0.11,83.17,Arabica,Unknown,Unknown,MODERATE
+Philippines,2012,6.83,6.5,6.5,6.92,6.75,7,9.33,9.33,0.12,75.83,Arabica,Unknown,Washed / Wet,LOW
+Philippines,2014,7.47,7.36,7.45,7.28,7.41,7.5,10,10,0.05,81.81,Arabica,Other,Washed / Wet,MODERATE
+Philippines,2015,7.58,7.58,7.67,7.58,7.5,7.5,10,10,0.11,82.92,Arabica,Other,Washed / Wet,MODERATE
+Rwanda,2015,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,0.11,82.83,Arabica,Bourbon,Washed / Wet,MODERATE
+Taiwan,2012,7.83,7.83,7.75,8,7.5,7.75,10,10,0.11,84.42,Arabica,Typica,Washed / Wet,MODERATE
+"Tanzania, United Republic Of",2012,8.05,7.84,7.75,7.63,7.58,7.88,10,10,0.11,84.66,Arabica,Arusha,Natural / Dry,MODERATE
+"Tanzania, United Republic Of",2013,7.33,7.33,7.5,7.25,7.42,7.33,10,10,0.12,81.67,Arabica,Other,Washed / Wet,MODERATE
+"Tanzania, United Republic Of",2014,7.56,7.42,7.43,7.52,7.45,7.48,10,10,0.12,82.33,Arabica,Other,Washed / Wet,MODERATE
+"Tanzania, United Republic Of",2015,7.67,7.47,7.44,7.47,7.53,7.47,10,10,0.13,82.56,Arabica,Bourbon,Washed / Wet,MODERATE
+"Tanzania, United Republic Of",2016,7.42,7.46,7.38,7.55,7.59,7.46,10,10,0.06,82.42,Arabica,Bourbon,Unknown,MODERATE
+Thailand,2011,7.43,7.61,7.51,7.65,7.58,7.61,10,10,0.1,82.97,Arabica,Unknown,Unknown,MODERATE
+Thailand,2012,7.65,7.58,7.63,7.77,7.58,7.63,9.73,9.73,0.07,82.77,Arabica,Other,Washed / Wet,MODERATE
+Thailand,2013,7.25,7.25,7.06,7.45,7.19,7.14,10,10,0.12,80.47,Arabica,Unknown,Washed / Wet,MODERATE
+Thailand,2014,7.57,7.58,7.45,7.75,7.42,7.57,9.87,10,0.12,82.82,Arabica,Unknown,Washed / Wet,MODERATE
+Thailand,2015,7.67,7.75,7.5,7.67,7.67,7.83,10,10,0.1,83.92,Arabica,Catimor,Natural / Dry,MODERATE
+Uganda,2012,8.02,7.82,7.65,7.83,7.8,7.77,10,10,0.11,84.62,Arabica,Other,Washed / Wet,MODERATE
+Uganda,2013,7.9,7.73,7.61,7.71,7.72,7.64,10,9.2,0.12,83.21,Arabica,SL14,Washed / Wet,MODERATE
+Uganda,2014,7.87,7.83,7.73,7.7,7.7,7.7,10,8.6,0.09,82.97,Robusta,Unknown,Unknown,MODERATE
+Uganda,2015,7.61,7.67,7.48,7.54,7.65,7.56,10,10,0.12,83.17,Arabica,Bourbon,Washed / Wet,MODERATE
+Uganda,2016,8.05,7.84,7.71,7.75,7.75,7.75,10,10,0.11,84.75,Arabica,SL14,Washed / Wet,MODERATE
+United States,2010,7.88,8.17,7.75,7.71,7.75,7.71,10,10,0.01,84.84,Arabica,Unknown,Unknown,MODERATE
+United States,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,0.13,80.75,Arabica,Arusha,Natural / Dry,MODERATE
+United States,2012,7.57,7.62,7.5,7.63,7.62,7.68,9.7,9.71,0.07,82.34,Arabica,Hawaiian Kona,Natural / Dry,MODERATE
+United States,2013,7.49,7.46,7.43,7.52,7.62,7.6,9.29,9.51,0.08,80.99,Arabica,Hawaiian Kona,Natural / Dry,MODERATE
+United States,2014,7.63,7.64,7.59,7.7,7.72,7.65,9.27,9.4,0.05,81.62,Arabica,Hawaiian Kona,Natural / Dry,MODERATE
+Vietnam,2012,7.67,7.67,7.17,7.33,7.88,7.25,10,10,0.06,82.5,Arabica,Other,Natural / Dry,MODERATE
+Vietnam,2013,6.75,6.67,6.5,6.83,6.92,6.83,9.33,6.67,0.12,73.75,Robusta,Unknown,Natural / Dry,LOW
+Vietnam,2014,7.33,7.44,7.47,7.5,7.56,7.47,9.78,10,0.08,82.53,Arabica,Caturra,Other,MODERATE
+Vietnam,2017,7.5,7.34,7.17,7.46,7.5,7.96,9.34,10,0.04,81.67,Arabica,Catimor,Natural / Dry,MODERATE
+Zambia,2014,7.67,7.08,7.42,7.33,7.75,7.42,10,10,0,81.92,Arabica,SL28,Washed / Wet,MODERATE
