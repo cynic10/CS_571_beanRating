@@ -70,6 +70,12 @@ Then to run the project:
 npm start
 ```
 
+Note: For newer node versions, please run the following to make the code work:
+
+```bash
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
 ## Project Screencast Link: 
 
 [Watch the 2-Minute Screencast](https://www.youtube.com/watch?v=uo2VmsI0Cgw)
