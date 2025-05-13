@@ -8,7 +8,7 @@ const LineGraph = () => {
   const [yAxisOption, setYAxisOption] = useState("avgProduction");
 
   useEffect(() => {
-    d3.csv("/datasets/line_graph_totalproduction_totalscores_by_countryandyear.csv").then((rows) => {
+    d3.csv(process.env.PUBLIC_URL + "/datasets/line_graph_totalproduction_totalscores_by_countryandyear.csv").then((rows) => {
       const parsed = rows.map((d) => ({
         country: d[""] || d["Country"] || d[Object.keys(d)[0]].trim(),
         year: +d[Object.keys(d)[1]],

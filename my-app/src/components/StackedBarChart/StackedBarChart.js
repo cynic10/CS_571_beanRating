@@ -9,7 +9,7 @@ const StackedBarChart = () => {
   const [selectedYear, setSelectedYear] = useState(null);
 
   useEffect(() => {
-    d3.csv("/datasets/preprocessed_stacked_data_with_year.csv").then(rows => {
+    d3.csv(process.env.PUBLIC_URL + "/datasets/preprocessed_stacked_data_with_year.csv").then(rows => {
       const parsed = rows.map(d => ({
         year: +d.Year,
         country: d.Country,
