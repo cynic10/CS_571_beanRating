@@ -1,4 +1,4 @@
-Country,Year,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Sweetness,Moisture,Total,Species,Variety,ProcessingMethod,QualityCategory
+Country,Year,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Sweetness,Moisture,Total,Species,Variety,Processing Method,Quality Category
 Brazil,2010,8.3,7.92,7.96,7.75,8.13,8,10,10,0.05,86.17,Arabica,Yellow Bourbon,Unknown,HIGH
 Brazil,2011,8.02,7.93,7.68,7.73,7.69,7.74,10,10,0.08,84.52,Arabica,Bourbon,Semi-washed / Semi-pulped,MODERATE
 Brazil,2012,7.64,7.59,7.4,7.51,7.49,7.48,10,10,0.12,82.6,Arabica,Mundo Novo,Natural / Dry,MODERATE
