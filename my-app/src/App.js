@@ -15,6 +15,7 @@ function App() {
             <h1 className="site-title">beanRating</h1>
           </div>
           <nav className="header-links">
+            <a href="https://github.com/cynic10/CS_571_beanRating/blob/main/CS_571_FinalProcess%20Book.pdf" target="_blank" rel="noreferrer">Process Book</a>
             <a href="https://github.com/cynic10/CS_571_beanRating" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://www.youtube.com/watch?v=uo2VmsI0Cgw" target="_blank" rel="noreferrer">Screencast</a>
           </nav>
