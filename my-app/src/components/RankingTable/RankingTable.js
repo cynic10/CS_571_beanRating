@@ -8,7 +8,7 @@ const RankingTable = () => {
   const [sortAsc, setSortAsc] = useState(true);
 
   useEffect(() => {
-    fetch('/data.csv')
+    fetch('/datasets/rankingTable_radarChart_dataset.csv')
       .then((res) => res.text())
       .then((text) => {
         const parsed = Papa.parse(text, { header: true });
