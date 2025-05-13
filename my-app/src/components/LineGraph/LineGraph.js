@@ -36,7 +36,7 @@ const LineGraph = () => {
 
   const width = 600;
   const height = 300;
-  const margin = { top: 20, right: 50, bottom: 30, left: 0 };
+  const margin = { top: 20, right: 50, bottom: 40, left: 50 };
 
   const xScale = d3
     .scaleLinear()
@@ -105,6 +105,43 @@ const LineGraph = () => {
             {tick.toFixed(1)}
           </text>
         ))}
+
+        {/* X-axis line */}
+        <line
+          x1={xScale(d3.min(dataByYear, d => d.year))}
+          x2={xScale(d3.max(dataByYear, d => d.year))}
+          y1={yScale.range()[0]}
+          y2={yScale.range()[0]}
+          stroke="#4e342e"
+          strokeWidth="1"
+        />
+
+        
+
+        {/* X-axis label */}
+        <text
+          x={width / 2}
+          y={height + 20}
+          fontSize="12"
+          fill="#4e342e"
+          textAnchor="middle"
+          dy="-4"
+        >
+          Year
+        </text>
+
+        {/* Y-axis label */}
+        <text
+          transform={`rotate(-90)`}
+          x={-height / 2}
+          y="5"
+          fontSize="12"
+          fill="#4e342e"
+          textAnchor="middle"
+        >
+          {yAxisOption === "avgProduction" ? "Average Production" : "Average Score"}
+        </text>
+
 
         {/* Line Path */}
         <path

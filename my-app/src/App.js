@@ -52,9 +52,11 @@ function App() {
         </div>
         <div className="line-container">
           <LineGraph />
+          <div style={{ marginTop: '40px' }}>
           <p className="viz-description">
             A line graph illustrating trends in average coffee bean ratings across years.
           </p>
+          </div>
         </div>
       </div>
 
