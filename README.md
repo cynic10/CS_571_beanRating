@@ -5,7 +5,7 @@ Welcome to **beanRating**, a visual and interactive dashboard that helps coffee 
 ---
 
 ## Project Website  
-[Visit the Coffee Rating Website](https://your-project-site.com)
+[Visit the Coffee Rating Website](https://cynic10.github.io/CS_571_beanRating/)
 
 ## Project Overview
 
