@@ -47,7 +47,7 @@ function App() {
         <div className="bar-container">
           <StackedBarChart />
           <p className="viz-description">
-            A stacked bar chart showing production volume breakdown by country over time.
+            A stacked bar chart showing scoring composition of top 5 scoring countries over the years.
           </p>
         </div>
         <div className="line-container">
